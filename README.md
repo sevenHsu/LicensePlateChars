@@ -22,7 +22,7 @@ data images.
 ![2](paste_img/Q/blue.jpg)
 ![2](paste_img/7/blue.jpg)
    
-   - Yellow(Gas Vehicle License Plate)
+   - Yellow(Gas Vehicle/Coach Car License Plate)
    
 ![2](paste_img/渝/yellow.jpg)
 ![2](paste_img/A/yellow.jpg)
@@ -54,7 +54,23 @@ data images.
 ![2](paste_img/4/green2.jpg) 
 ![2](paste_img/T/green2.jpg) 
 
-  - Black (Embassy License Plate)
+  - Black (Embassy/HK/MO License Plate)
+
+![2](paste_img/2/black.jpg)
+![2](paste_img/3/black.jpg)
+![2](paste_img/1/black.jpg)
+![2](paste_img/0/black.jpg)
+![2](paste_img/7/black.jpg)
+![2](paste_img/1/black.jpg)
+![2](paste_img/使/black.jpg)
+
+![2](paste_img/鄂/black.jpg)
+![2](paste_img/2/black.jpg)
+![2](paste_img/2/black.jpg)
+![2](paste_img/4/black.jpg)
+![2](paste_img/8/black.jpg)
+![2](paste_img/8/black.jpg)
+![2](paste_img/领/black.jpg)
 
 ![2](paste_img/粤/black.jpg)
 ![2](paste_img/Z/black.jpg)
@@ -62,7 +78,15 @@ data images.
 ![2](paste_img/0/black.jpg)
 ![2](paste_img/2/black.jpg)
 ![2](paste_img/3/black.jpg)
-![2](paste_img/T/black.jpg)
+![2](paste_img/港/black.jpg)
+
+![2](paste_img/粤/black.jpg)
+![2](paste_img/Z/black.jpg)
+![2](paste_img/1/black.jpg)
+![2](paste_img/9/black.jpg)
+![2](paste_img/0/black.jpg)
+![2](paste_img/7/black.jpg)
+![2](paste_img/澳/black.jpg)
 
   - White (Police License Plate)
   
@@ -72,4 +96,4 @@ data images.
 ![2](paste_img/0/white.jpg)
 ![2](paste_img/0/white.jpg)
 ![2](paste_img/0/white.jpg)
-![2](paste_img/6/white.jpg)
+![2](paste_img/警/white.jpg)

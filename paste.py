@@ -17,6 +17,15 @@ for char_path in char_paths:
         color = 0
         if 'blue' in bg_path or 'black' in bg_path:
             color = 255
+        if char == '警':
+            if 'white' not in bg_path:
+                continue
+            color = [36, 27, 237]
+        if char == '学' and 'yellow' not in bg_path:
+            continue
+        if char in ['使', '领', '港', '澳']:
+            if 'black' not in bg_path:
+                continue
         bg_img = cv2.imread(bg_path, -1)
         bg_img = cv2.resize(bg_img, (w, h))
 

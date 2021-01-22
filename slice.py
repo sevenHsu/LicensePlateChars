@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('alp.jpg', 0)
+img = cv2.imread('pro.jpg', 0)
 
 tmp = img.copy()
 
@@ -22,4 +22,4 @@ for i, contour in enumerate(contours):
     croped_img = np.repeat(croped_img, 3, -1)
     croped_img = np.concatenate([croped_img, alpha], 2)
 
-    cv2.imwrite('AlpChars/' + str(i) + '.png', croped_img)
+    cv2.imwrite('ProChars/' + str(i) + '.png', croped_img)
